@@ -3,7 +3,6 @@
 # Name: SHAJIVE KUAMR J 
 # Date:13-05-2026
 
-
 # AIM:
 To develop the ATM and Banking System using Star UML
 
@@ -27,7 +26,6 @@ To develop the ATM and Banking System using Star UML
 9.Ensure real-time processing and data consistency with the core banking system.
 
 10.Provide a simple and intuitive user interface.
-
 
 # UML DIAGRAMS
 
@@ -75,7 +73,6 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 <img width="1307" height="577" alt="Screenshot 2026-05-12 211050" src="https://github.com/user-attachments/assets/3da4a78f-1d99-4c54-b958-9f5644d02ec8" />
 
-
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -106,7 +103,6 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
-
 # BENEFITS OF SEQUENCE DIAGRAM
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
@@ -122,4 +118,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
