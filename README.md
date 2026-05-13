@@ -51,9 +51,6 @@ Specifying the context and requirements of a system
 <img width="1487" height="850" alt="Screenshot 2026-05-12 102944" src="https://github.com/user-attachments/assets/d47c6123-50f3-4409-a1b7-2c4e7d32a236" />
 
 
-
-
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -89,11 +86,6 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 <img width="898" height="823" alt="Screenshot 2026-05-12 215243" src="https://github.com/user-attachments/assets/a4717751-399d-4d8d-aff5-3bbf909eb60d" />
 
-
-
-
-
-
 # ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
@@ -107,8 +99,6 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 <img width="735" height="833" alt="Screenshot 2026-05-12 210207" src="https://github.com/user-attachments/assets/4a98ead0-b212-461c-8d1d-e075d9469c8c" />
-
-
 
 # SEQUENCE DIAGRAM
 
@@ -128,9 +118,6 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 <img width="1402" height="847" alt="Screenshot 2026-05-12 203748" src="https://github.com/user-attachments/assets/9c3173f9-32df-450b-bfa7-0eac72968cac" />
-
-
-
 
 # RESULT
 
